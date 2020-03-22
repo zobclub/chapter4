@@ -8,7 +8,7 @@ Chapter 4 Sample program for micro: bit book
 ```
 シャッフルアルゴリズム　文字ランダム表示
 ```
-* microbit-shuffle1.hex
+* microbit-shuffle2.hex
 ```
 シャッフルアルゴリズム　数値LEDバー表示
 ```
@@ -29,4 +29,4 @@ MIT
 
 ## Supported targets
 
-* for PXT/microbit
+for PXT/microbit
