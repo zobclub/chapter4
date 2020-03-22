@@ -22,6 +22,10 @@ Chapter 4 Sample program for micro: bit book
 ```
 * microbit-sort3.hex
 ```
+シャッフル＋ソートプログラム パラメータ付関数使用
+```
+* microbit-sort4.hex
+```
 シャッフル＋ソートプログラム カスタムブロック使用
 ```
 ## License
